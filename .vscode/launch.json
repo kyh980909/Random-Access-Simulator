@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/KYH/OneDrive - 명지대학교/대학원 수업자료/2022-2/최신이동통신기술2/5G-Contention-Based-Random-Access-Procedure",
+      "program": "c:/Users/KYH/OneDrive - 명지대학교/대학원 수업자료/2022-2/최신이동통신기술2/5G-Contention-Based-Random-Access-Procedure/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
